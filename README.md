@@ -1,6 +1,6 @@
 # Procesamiento de Datos
 
-El primer paso para un proyecto de datos es, analizar la data verificar las fuentes de datos, y aceptar la que mejor convenga en volumen, ya que no nos sera un problema, debido a las nuevas tecnologias para bigdata, esto no debe representar un problema para el analista, no sedebe dejar de lado bases de datos por su complejidad o falta de capacitacion; abordar de forma concreta un trabajo de analisis es indispensable, y para un cientifico de datos, los datos representan el corazon de su trabajo.
+El primer paso para un proyecto de datos es, analizar la data y verificar las fuentes de datos, aceptando la que mejor convenga en volumen, y que no debera sera un problema, debido a las nuevas tecnologias para bigdata, asi que no debe representar un problema para el analista, no deben evitarse las datas por su complejidad o falta de capacitacion; abordar de forma concreta un trabajo de analisis es indispensable, y para un cientifico de datos los datos representan el corazon de su trabajo.
 
 ### Dejo aqui algunos repositorios de transformciones de datos con python.
 
