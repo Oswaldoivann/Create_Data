@@ -1,8 +1,8 @@
 # Procesamiento de Datos
 
-## En algunas ocaciones es necesario analizar los datos, desde diferentes perspectivas sin omitir las fuentes de datos, por complejidad o falta de capacitacion, abordar de forma correcta un trabajo de analisis es indispensable.
+En algunas ocaciones es necesario analizar los datos, desde diferentes perspectivas y sin omitir fuentes de datos, esto debido a su complejidad o falta de capacitacion; abordar de forma correcta un trabajo de analisis es indispensable, para un cientifico de datos.
 
-### Dejo algunos repositorios de transformciones de datos con python.
+### Dejo aqui algunos repositorios de transformciones de datos con python.
 
 ## CreateData
 
@@ -16,4 +16,4 @@ Usaremos el lenguaje de programacion Python, utilizando Google-Colab.
 
 ## COVID19MEXICO
 
-Realizamos la transformacion de la base de datos, utilizando los parametros de los catalogos, utilizando simples lineas de codigo.
+Realizamos la transformacion de la base de datos utilizando los parametros de los catalogos, lanzamos unas simples lineas de codigo, que quedaran guardadas para seguir convirtiendo las actulizaciones diarias de esta base, aqui esta una buena ventaja para trabajar con python.
